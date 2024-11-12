@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently learning on ECUST
+- 🌱 I’m currently learning LLM、Agent
+- 📫 How to reach me: Y80230290@mail.ecust.edu.cn
 
 <!--
 **JY-Ou/JY-Ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
